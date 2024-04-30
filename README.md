@@ -2,7 +2,7 @@ Hi, I'm Kelly! I adore functional programming and esoteric languages! 🌸
 
 I adore Haskell, it's my favorite language and my current obsession. I also adore TypeScript, Elixir, Lua and C#!
 
-I do game modding in my free time! I've made big contributions to the [Inscryption modding API](https://thunderstore.io/c/inscryption/p/API_dev/API/) and the [Inscryption JSON mod loader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/). I also make [Cult of the Lamb](https://next.nexusmods.com/profile/KellyBetty/mods) mods.
+I also contribute to the [Inscryption modding API](https://thunderstore.io/c/inscryption/p/API_dev/API/) and make [Cult of the Lamb](https://next.nexusmods.com/profile/KellyBetty/mods) mods!
 
 [![My Skills](https://skillicons.dev/icons?i=haskell,js,ts,react,tailwind,elixir,lua,cs)](https://skillicons.dev)
 
