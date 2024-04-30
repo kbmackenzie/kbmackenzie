@@ -1,5 +1,9 @@
 ... Under construction... Check back later! 🌸
 
+![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbmackenzie&show_icons=true&theme=aura_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbmackenzie&layout=compact)
+
 <!--
 **kbmackenzie/kbmackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
