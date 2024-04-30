@@ -1,6 +1,6 @@
-Hi, I'm Kelly! I adore functional programming and esoteric languages! 🌸
+<img align="right" width="256" src="./alpaca.webp" alt="An animated drawing of a fluffy alpaca looking at a computer.">
 
-![An animated drawing of a fluffy alpaca looking at a computer.](./alpaca.webp)
+Hi, I'm Kelly! I adore functional programming and esoteric languages! 🌸
 
 I adore Haskell, it's my favorite language and my current obsession!
 
