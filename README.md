@@ -4,7 +4,7 @@ I adore Haskell, it's my favorite language and my current obsession. I also ador
 
 I do game modding in my free time! I've made big contributions to the [Inscryption modding API](https://thunderstore.io/c/inscryption/p/API_dev/API/) and the [Inscryption JSON mod loader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/). I also make [Cult of the Lamb](https://next.nexusmods.com/profile/KellyBetty/mods) mods.
 
-[![My Skills](https://skillicons.dev/icons?i=haskell,ts,react,tailwind,js,elixir,lua,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,js,ts,react,tailwind,elixir,lua,cs)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbmackenzie&layout=compact&exclude_repo=InscryptionJSONDump,JSONLoader,COTL_JSONLoader)
 
