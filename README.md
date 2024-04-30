@@ -1,10 +1,10 @@
 Hi, I'm Kelly! I adore functional programming and esoteric languages! 🌸
 
-I adore Haskell, it's my favorite language and my current obsession. I also adore TypeScript, Elixir, Lua and C#!
+I adore Haskell, it's my favorite language and my current obsession. I also adore TypeScript, Lua and C#!
 
 I also contribute to the [Inscryption modding API](https://thunderstore.io/c/inscryption/p/API_dev/API/) and make [Cult of the Lamb](https://next.nexusmods.com/profile/KellyBetty/mods) mods!
 
-[![My Skills](https://skillicons.dev/icons?i=haskell,js,ts,react,tailwind,elixir,lua,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,js,ts,react,tailwind,lua,cs)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbmackenzie&layout=compact&exclude_repo=InscryptionJSONDump,JSONLoader,COTL_JSONLoader)
 
