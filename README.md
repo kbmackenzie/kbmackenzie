@@ -4,7 +4,7 @@ Hi, I'm Kelly! I adore functional programming, esoteric languages! 🌸
 
 To learn more about me, [see my website](https://kbmackenzie.xyz/)!
 
-I contribute to the [Inscryption modding API][1] and make [Inscrytion mods][2] + [Cult of the Lamb mods][3]!
+I contribute to the [Inscryption modding API][1] and make [Inscryption mods][2] + [Cult of the Lamb mods][3]!
 
 [![My Skills](https://skillicons.dev/icons?i=haskell,ts,js,react,sass,nodejs,lua,cs,linux,neovim)](https://skillicons.dev)
 
