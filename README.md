@@ -1,4 +1,4 @@
-<img align="right" width="200" src="./alpaca.webp" alt="An animated drawing of a fluffy alpaca looking at a computer.">
+<img align="right" width="256" src="./alpaca.webp" alt="An animated drawing of a fluffy alpaca looking at a computer.">
 
 Hi, I'm Kelly! I adore functional programming and esoteric languages! 🌸
 
